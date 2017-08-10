@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.6
 ENV SCRIPT_URL ""
 ENV TARGET_URL ""
 ENV WRK_OPTIONS ""
